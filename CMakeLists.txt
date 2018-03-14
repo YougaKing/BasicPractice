@@ -6,4 +6,5 @@ set(CMAKE_C_STANDARD 99)
 add_executable(
         BasicPractice
         main.c
-)
+#        pointer.c
+        optionfile.h optionfile.c)

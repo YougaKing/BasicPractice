@@ -1,6 +1,10 @@
 #include <stdio.h>
+#include "optionfile.h"
 
 int main() {
-    printf("Hello, World!\n");
+
+    createFile();
+
+
     return 0;
 }
