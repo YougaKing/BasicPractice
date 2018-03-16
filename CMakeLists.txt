@@ -5,6 +5,11 @@ set(CMAKE_C_STANDARD 99)
 
 add_executable(
         BasicPractice
-        main.c
+#        main.c
 #        pointer.c
-        optionfile.h optionfile.c)
+#        optionfile.h optionfile.c
+#        example/gasenumber.c
+#        example/atm.c
+#        example/armstrong.c
+        example/convertBinary.c
+)
